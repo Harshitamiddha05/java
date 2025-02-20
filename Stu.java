@@ -1,3 +1,9 @@
+/*Write a java program to take input as a command line argument. Your name, course, universityrollno and semester. Display the information.
+Name:
+UniversityRollNo:
+Course:
+Semester:*/
+
 public class Stu
 {
  public static void main(String args[])
