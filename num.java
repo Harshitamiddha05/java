@@ -1,3 +1,4 @@
+/*write a program to input four numbers (integer,float) and compute Addition,Subtraction,Multiplication,and division using user input (using command line argument)*/
 public class num
 {
  public static void main(String args[])
@@ -12,4 +13,3 @@ public class num
   System.out.println("Division:"+(n3/n4));
  }
 }
-
